@@ -1,6 +1,6 @@
 {
-  "name": "nextjs-tailwind-starter-ts",
-  "description": "A simple starter to get up and running with nextjs,tailwindcss,TS",
+  "name": "storyblok-nextjs-portfolio",
+  "description": "A simple demo to get up and running with nextjs and storyblok.",
   "author": "Dipankar Maikap <mail@dipankarmaikap.com>",
   "version": "0.1.0",
   "private": true,
